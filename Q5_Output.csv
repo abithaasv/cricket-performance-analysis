@@ -1,0 +1,16 @@
+city,toss_decision,num_matches,win_percent_toss_winner
+Jaipur,field,28,0.6786
+Kolkata,field,51,0.6275
+Chennai,bat,41,0.5854
+Mumbai,field,120,0.5417
+Chandigarh,field,39,0.5385
+Bengaluru,field,71,0.5352
+Delhi,field,45,0.5333
+Pune,field,32,0.5000
+Mumbai,bat,48,0.4792
+Delhi,bat,33,0.4545
+Kolkata,bat,28,0.4286
+Hyderabad,field,36,0.4167
+Dubai,field,27,0.4074
+Chennai,field,26,0.3846
+Hyderabad,bat,28,0.2143
